@@ -1,8 +1,22 @@
-In the project directory, you can run:
+### Developed an API for Q&A/discussion platform like Stack Overflow.
+</br>
 
-### `yarn start`
+### There are 8 routes:
+<ul>
+    <li>Sign up</li>
+	<li>Sign in</li> 
+	<li>Create Post (Any authorized user)</li>
+	<li>Update Post (Only author can update)</li>
+	<li>Delete Post (Only author can delete)</li>
+	<li>Get Post details (No Authentication needed)</li>
+	<li>Create Answer for a Post (Any authorized user)</li>
+	<li>Get all answers for a Post (No Authentication needed)</li>
+</ul>
 
-Runs the app.
+</br>
+
+### In the project directory, you can run:
+### `yarn start`: <span>&nbsp; </span>Runs the app.
 </br></br>
 
 
